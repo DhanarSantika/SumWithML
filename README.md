@@ -1,3 +1,3 @@
 # Sum With ML
 
-Sum 2 number with linear regression
+Sum 2 numbers with linear regression
